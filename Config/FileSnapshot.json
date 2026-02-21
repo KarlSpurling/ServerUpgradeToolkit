@@ -1,0 +1,6 @@
+{
+  "IncludeDrives": [ "C:" ],
+  "ExcludeDrives": [ "X:", "Z:" ],
+  "IncludeHash": false,
+  "OutputPath": "C:\\Snapshots"
+}
